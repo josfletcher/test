@@ -1,7 +1,7 @@
 package ver2;
 
 public class Account {
-	private double balance;
+	private double balance;//New Comment for Balance
 	private String name;
 	public double getBalance() {
 		return balance;
